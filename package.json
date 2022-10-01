@@ -1,5 +1,5 @@
 {
-    "name": "theme-omni",
+    "name": "theme-omni-deldmi",
     "version": "1.0.12",
     "displayName": "Omni Theme",
     "homepage": "https://github.com/getomni/omni",
@@ -20,10 +20,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/getomni/visual-studio-code.git"
+        "url": "https://github.com/deldmi/visual-studio-code.git"
     },
     "bugs": {
-        "url": "https://github.com/getomni/visual-studio-code/issues"
+        "url": "https://github.com/deldmi/visual-studio-code/issues"
     },
     "engines": {
         "vscode": "^1.13.0"
@@ -32,7 +32,7 @@
         "Themes"
     ],
     "keywords": [
-        "omni",
+        "omni-deldmi",
         "rocketseat",
         "theme",
         "color-theme"
@@ -45,7 +45,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Omni",
+                "label": "Omni deldmi",
                 "uiTheme": "vs-dark",
                 "path": "./theme/omni.json"
             }
